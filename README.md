@@ -1,5 +1,11 @@
 ## A DQN Approach to Playing Atari Breakout
-### Built using 
+### Built using PyTorch and OpenAI Gymnasium
+
+- Over 3000 epochs of training
+- Able to consistently play breakkout to a score of ~15
+
+#### Future Work
+More training is required for a further improvement in learning and gamescore
 
 
 
