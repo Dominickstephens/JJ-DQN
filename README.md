@@ -4,7 +4,7 @@
 - Over 3000 epochs of training
 - Able to consistently play breakkout to a score of ~15
 
-#### Future Work
+### Future Work
 More training is required for a further improvement in learning and gamescore
 
 
